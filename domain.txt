@@ -5,3 +5,7 @@ AI/ML
 Data Science
 
 Web Development
+
+UI/UX
+
+Data Analytics
